@@ -2,14 +2,13 @@
 
 Showcase diverse projects built by students. Projects are built by students from different backgrounds and levels of experience. They are a testament to the creativity and innovation that can be achieved through coding. 
 
-### Legend
+<div align='center'>
 
-| Icon | Description |
-| --- | --- |
-| 🧠 | Machine Learning |
-| 🧪 | Data Science |
-| 🕸️ | Web Develoment |
-| ... | More to come | 
+**Legends**  
+(🧠) - Machine Learning, (🧪) - Data Science, (🕸️) - Web Development
+
+</div>
+
 
 ### Projects 
 
@@ -23,4 +22,5 @@ Showcase diverse projects built by students. Projects are built by students from
 |🧠 | [Trends in Atmospheric Carbon Dioxide](https://github.com/aelluminate/trends-in-atmospheric-carbon-dioxide) | [Manuel E. Mendez Jr.](https://github.com/scruBB29), [Kiyoharu Sarmiento](https://github.com/klstxii), & [Rijel S. Tayag](https://github.com/Arj3l) | [🔗 Check it out](https://github.com/Arj3l/CO2-PPM-Final) | 
 |🧠 | [Tobacco Use Survey Analysis](https://github.com/aelluminate/tobacco-use-survey-analysis) | [Mitch M. Dela Cruz](https://github.com/mitsucatsu) & [Mike Fernando D. Bunag](https://github.com/ryokii-jpg)  | [🔗 Check it out](https://github.com/ryokii-jpg/tobaco-analysis) |
 |🧠 | [Population Figures Analysis](https://github.com/aelluminate/population-figures-analysis) | [Alaica Pineda](https://github.com/Alaics) & [Hans Lawrence R. Del Rosario](https://github.com/Lawrenceio) |  [🔗 Check it out](https://github.com/Alaics/Softdsnl-Finals-Population) | 
-| 🧠 | [City Population Annual Timeseries Analysis](https://github.com/aelluminate/city-population-annual-time-series-analysis) | [Ivan Joshua Cataquian](https://github.com/C474Q), [Ron Lorenz Lois G. David](https://github.com/Rnenz1030) & [Edrick Justine B. Visda](https://github.com/Ejbv) | [🔗 Check it out](https://github.com/C474Q/SDSNL-FINAL-EXAMS) | 
+| 🧠 | [City Population Annual Timeseries Analysis](https://github.com/aelluminate/city-population-annual-time-series-analysis) | [Ivan Joshua Cataquian](https://github.com/C474Q), [Ron Lorenz Lois G. David](https://github.com/Rnenz1030) & [Edrick Justine B. Visda](https://github.com/Ejbv) | [🔗 Check it out](https://github.com/C474Q/SDSNL-FINAL-EXAMS) |
+| 🧠 | [Brent Oil Price Analysis and Prediction](https://github.com/aelluminate/brent-oil-price-analysis-and-prediction) | [John Ivan D. Dizon](https://github.com/jivndzn) & [Brienne Khayla C. David](https://github.com/briedvd) | [🔗 Check it out](https://github.com/jivndzn/softdes-finals) | 
